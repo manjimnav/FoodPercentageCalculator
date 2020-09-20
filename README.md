@@ -6,6 +6,7 @@ There is three versions:
 * Regression with transfer learning from an classification model.
 * Regression with transfer learning from an segmentation model.
 
+The dataset used is in http://www.ivl.disco.unimib.it/activities/food-recognition/
 - TODO:
 - [] Refactorize code.
 - [] Use another segmentation models.
